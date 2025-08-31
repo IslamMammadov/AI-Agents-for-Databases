@@ -1,0 +1,344 @@
+Department,Department_Name,Division,Gender,Base_Salary,Overtime_Pay,Longevity_Pay,Grade
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 2 Security,F,65405,1120.27,0,C5
+HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,75771.7236,0,0,17
+FRS,Fire and Rescue Services,FRS 45 Station 15,M,73525,2523.14,0,F3
+FRS,Fire and Rescue Services,FRS 45 Station 12,M,106504,47547.16,3665.54,F4
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,57121.3,0,0,16
+LIB,Department of Public Libraries,LIB 71 Quince Orchard Library,F,89434,0,0,N25
+POL,Department of Police,POL 47 FSB Security Services Division,M,64166.5466,9094.35,0,16
+CCL,County Council,CCL 01 Council Central Staff,M,69333,202.37,0,N17
+HCA,Department of Housing and Community Affairs,HCA 76 Housing Code Enforcement,M,117424,0,0,N25
+OLR,Office of Labor Relations,OLR 26 Office of Labor Relations,F,171540,0,0,M2
+HCA,Department of Housing and Community Affairs,HCA 76 Housing Landlord and Tenant Mediation,F,117424,0,9367.17,25
+LIB,Department of Public Libraries,LIB 71 Rockville Library,F,34721,0,2748.91,13
+HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,81594.94,0,0,17
+LIB,Department of Public Libraries,LIB 71 Kensington Park Library,F,31984.7229,0,0,18
+OLR,Office of Labor Relations,OLR 26 Labor Relations Division,F,117424,271.86,0,N25
+HHS,Department of Health and Human Services,HHS 60 Aging & Disability Services Division,F,79522.155,0,0,21
+LIB,Department of Public Libraries,LIB 71 Connie Morella Library,M,30062.57,0,0,13
+CEX,Offices of the County Executive,CEX 15 Business Advancement Team,F,99846.78,0,0,N25
+DEP,Department of Environmental Protection,DEP 80 Administration and Operations,F,111124.85,0,0,N25
+POL,Department of Police,POL 47 PSB 5th District Patrol,M,109649,20058.75,0,P5
+HHS,Department of Health and Human Services,HHS 60 Office of Community Affairs Division,F,85102.3,0,204.79,18
+POL,Department of Police,POL 47 ISB Special Victims Investigations Division Family Justice,M,104428,8397.26,0,P4
+DOT,Department of Transportation,DOT 50 Transit Nicholson Ride On,M,90517,24358.69,0,T2
+POL,Department of Police,POL 47 PSB 3rd District Patrol,M,108084,21582.63,7405.6,P4
+POL,Department of Police,POL 47 PSB 2nd District Patrol,M,124833,12073.48,13310.7,A1
+FRS,Fire and Rescue Services,FRS 45 Station 10,M,90386,0,0,F3
+POL,Department of Police,POL 47 MSB Communications Division,M,63439.3193,31188.25,0,19
+LIB,Department of Public Libraries,LIB 71 Collection Management,M,25068.9179,0,0,13
+POL,Department of Police,POL 47 MSB Communications Division,F,98228,2848.66,1596.27,N21
+FRS,Fire and Rescue Services,FRS 45 Field Recruits,M,58113,104.78,0,F1
+DPS,Department of Permitting Services,DPS 75 Commercial Electrical and FPS Inspections,M,112267.0045,808.81,0,24
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,83017,12775.59,0,T1
+FRS,Fire and Rescue Services,FRS 45 Duty Operations Chief's Office,M,167306,912.23,16451.47,B4
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,F,78947,512.01,3732.58,16
+CEC,Community Engagement Cluster,CEC 16 Regional Services Centers,F,172000,0,0,EX3
+DGS,Department of General Services,DGS 36 Real Estate Office,F,78947,0,6257.7,16
+TBS,Department of Technology and Enterprise Business Solutions,TBS 34 OBP Community Engagement (Cable),F,107367,0,0,23
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,67983.2,5564.77,0,13
+ABS,Alcohol Beverage Services,ABS 85 Aspen Hill,F,21862,107.54,0,12
+DOT,Department of Transportation,DOT 50 Transit Nicholson Ride On,M,78017,1523.46,0,T1
+FRS,Fire and Rescue Services,FRS 45 Station 15,M,106504,20415.79,7529.88,F4
+FRS,Fire and Rescue Services,FRS 45 Station 3,M,73525,3762.43,0,F3
+ABS,Alcohol Beverage Services,ABS 85 Potomac,F,53257.6,660.93,0,12
+POL,Department of Police,POL 47 PSB 4th District Community Operations,M,108084,345.68,11524.76,P4
+ABS,Alcohol Beverage Services,ABS 85 Hampden Lane,M,86103.0015,583.86,3665.73,N18
+POL,Department of Police,POL 47 PSB 3rd District Patrol,F,78947,9258.06,3732.58,16
+FRS,Fire and Rescue Services,FRS 45 Station 18,M,76101,8416.76,0,F3
+HHS,Department of Health and Human Services,HHS 60 Chief Operating Officer Division,F,107367,0,0,23
+LIB,Department of Public Libraries,LIB 71 Germantown Library,M,93986,0,4005.07,N20
+FRS,Fire and Rescue Services,FRS 45 Fire and Explosive Investigations,M,106504,23213.49,3665.58,F4
+HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,F,83227,0,0,24
+OHR,Office of Human Resources,OHR 33 Director,F,226000,0,0,EX1
+FRS,Fire and Rescue Services,FRS 45 Third Battalion - Administration,M,117165,47292.13,0,B1
+DOT,Department of Transportation,DOT 50 Highway Administration,M,152940,0,0,M3
+DHS,Office of Emergency Management and Homeland Security,DHS 49 Policy and Planning,F,150063.72,0,0,M3
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,85017,406.08,0,T1
+ABS,Alcohol Beverage Services,ABS 85 Olney,M,72463,12.42,2204.96,14
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,88017,36054.66,0,T2
+FRS,Fire and Rescue Services,FRS 45 Fleet Operations,M,92181.0936,735.95,0,20
+FRS,Fire and Rescue Services,FRS 45 Station 12,M,81521,6357.15,0,F3
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,69078.63,0,1078.99,16
+FRS,Fire and Rescue Services,FRS 45 Station 15,M,73525,47478.66,0,F3
+OAS,Office of Animal Services,OAS 38 Animal Services Division,F,86049.3294,0,0,N25
+ABS,Alcohol Beverage Services,ABS 85 Kensington,M,95579.4474,840.32,0,N21
+LIB,Department of Public Libraries,LIB 71 Community Outreach,F,72476.554,50.51,0,18
+SHF,Sheriff's Office,SHF 48 Court and Transport,M,59585,7288.62,0,G2
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 2 Security,M,71968,16052.74,0,C5
+POL,Department of Police,POL 47 HQ Office of the Chief Legal and Labor Relations Division,F,80008,0,0,N21
+CUS,Community Use of Public Facilities,CUS 70 Core Services Team,F,98228,1246.82,7816.14,21
+OCP,Office of Consumer Protection,OCP 39 Operations,F,89844.1479,0,0,23
+DGS,Department of General Services,DGS 36 Fleet Management Fleet Services,M,89948,16804.6,449.76,19
+FRS,Fire and Rescue Services,FRS 45 Training,F,78947,0,6257.7,16
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,68017,3777.71,0,T1
+FIN,Department of Finance,FIN 32 Tax Operations,F,61670.2249,0,0,13
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,F,98228,5775.51,0,N21
+DOT,Department of Transportation,DOT 50 Sign and Marking Shop,M,65961.8497,3801.8,0,12
+POL,Department of Police,POL 47 MSB Communications Division,F,63679.6075,8460.13,0,17
+FRS,Fire and Rescue Services,FRS 45 Station 24,M,106504,62262.04,7459.2,F4
+DOT,Department of Transportation,DOT 50 Transit Nicholson Ride On,M,77684,3776.11,0,T1
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,175873,0,0,M2
+FRS,Fire and Rescue Services,FRS 45 Field Recruits,M,58113,1058.34,0,F3
+FRS,Fire and Rescue Services,FRS 45 Station 15,M,86639,21503.1,0,F4
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,72017,12722.96,0,T1
+POL,Department of Police,POL 47 CRB Community Engagement Division Community Engagement Section,M,97484,4199.22,0,P4
+HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,94713.3,925.35,0,23
+HHS,Department of Health and Human Services,HHS 60 Aging & Disability Services Division,F,190000,0,0,EX3
+TBS,Department of Technology and Enterprise Business Solutions,TBS 34 OSP Low Code Governance and Administration,M,158802,0,0,N32
+POL,Department of Police,POL 47 FSB Traffic Division School Safety Section,F,30620,0,1784.5,10
+OLO,Office of Legislative Oversight,OLO 03 Office of Legislative Oversight,F,143480.58,0,0,M2
+DGS,Department of General Services,DGS 36 Facilities Maintenance,F,56443,406.43,2651.45,8
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,90477.0936,0,0,24
+CEC,Community Engagement Cluster,CEC 16 Wheaton Urban District,M,78947,341.61,0,N16
+DOT,Department of Transportation,DOT 50 Transit Nicholson Ride On,M,57017,2475.76,0,T1
+POL,Department of Police,POL 47 FSB Security Services Division,M,60488.1158,10227.42,0,15
+CEX,Offices of the County Executive,CEX 15 Business Advancement Team,F,109019.655,0,0,N25
+DEP,Department of Environmental Protection,DEP 80 Waste Reduction and Recycling,F,86103,0,1399.19,18
+HHS,Department of Health and Human Services,HHS 60 Chief Operating Officer Division,M,103578,0,0,N24
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,83227,0,0,24
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,117424,0,0,25
+DPS,Department of Permitting Services,DPS 75 Commercial Bldg/LS/Access/FPS,M,112267,9454.22,3448.74,24
+FRS,Fire and Rescue Services,FRS 45 Station 3,M,106504,4050.04,0,F4
+OAS,Office of Animal Services,OAS 38 Animal Services Division,M,83860.3,6636.91,0,20
+DEP,Department of Environmental Protection,DEP 80 Stewardship Programs,M,72124.99,185.66,0,18
+HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,M,109117.8351,0,0,N25
+FRS,Fire and Rescue Services,FRS 45 Station 29,M,106504,49756.29,3630.81,F4
+FRS,Fire and Rescue Services,FRS 45 Station 31,M,96060,12589.32,0,F4
+FRS,Fire and Rescue Services,FRS 45 Fire Chief's Executive Office,M,145330.9,26145.37,1120.5,B3
+COR,Correction and Rehabilitation,COR 42 DS MCDC Central Processing Unit,M,61986,17693.91,0,C4
+FRS,Fire and Rescue Services,FRS 45 Station 24,M,96826,1545.63,0,F3
+FRS,Fire and Rescue Services,FRS 45 Station 16,M,81521,1340.39,0,F3
+POL,Department of Police,POL 47 MSB Communications Division,F,48618,1941.2,0,15
+FRS,Fire and Rescue Services,FRS 45 Emergency Medical & Integrated Healthcare Services,M,132119,161698.28,14257.75,B2
+COR,Correction and Rehabilitation,COR 42 PRRS Facility and Security,F,84560.535,20510.8,0,18
+DEP,Department of Environmental Protection,DEP 80 Recycling and Refuse Services,M,98228,8819.98,4658.57,21
+POL,Department of Police,POL 47 PSB 5th District Patrol,M,91002,91.45,0,P4
+DPS,Department of Permitting Services,DPS 75 Central Services Unit,F,98228,0,4186.89,N21
+ABS,Alcohol Beverage Services,ABS 85 Flower Avenue,M,78883.0226,131.98,0,N18
+PIO,Office of Public Information,PIO 23 MC311,M,58568.0971,211.2,0,13
+POL,Department of Police,POL 47 PSB 5th District Patrol,M,124833,14884.94,4285.32,A1
+POL,Department of Police,POL 47 PSB 6th District Patrol,F,78947,15444.15,6257.7,16
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,85017,8281.56,0,T1
+POL,Department of Police,POL 47 ISB Major Crimes Division Robbery Section,M,108084,32442.51,11524.76,P4
+OMB,Office of Management and Budget,OMB 31 Office of Management and Budget,F,147354,0,0,N30
+POL,Department of Police,POL 47 MSB Training and Education Division,F,18896.5125,0,0,10
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 1 Security,M,60092,15652.53,0,C4
+POL,Department of Police,POL 47 PSB 1st District Station,M,164759,17731.44,0,A2
+OAS,Office of Animal Services,OAS 38 Animal Services Division,M,140767,0,0,N29
+LIB,Department of Public Libraries,LIB 71 Digital Strategies,F,98228,0,0,21
+DOT,Department of Transportation,DOT 50 Highway Services,M,63305.878,9973.27,0,14
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,112267.0043,0,2078.58,24
+DEP,Department of Environmental Protection,DEP 80 Waste Reduction and Recycling,M,93816.7367,0,0,21
+HHS,Department of Health and Human Services,HHS 60 Aging & Disability Services Division,M,175873,0,0,M2
+DPS,Department of Permitting Services,DPS 75 Commercial Electrical and FPS Inspections,M,98228,0,7816.14,21
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,80017,5410.37,0,T1
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,89653,0,1097.32,20
+DEP,Department of Environmental Protection,DEP 80 Low-Impact Development,F,117424,0,0,N25
+POL,Department of Police,POL 47 PSB 3rd District Patrol,M,75522,10117.64,0,P3
+HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,F,107367,0,8554.02,23
+BOE,Board of Elections,BOE 24 Registration Services,M,60193,86.82,0,16
+FRS,Fire and Rescue Services,FRS 45 Station 3,M,78765,31635.05,0,F3
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 1 Security,M,67582,41003.44,0,C5
+DEP,Department of Environmental Protection,DEP 80 Recycling and Refuse Services,M,98228.0045,8886.02,0,21
+POL,Department of Police,POL 47 FSB Special Operations Division Tactical Operations Section,M,108084,20404.24,5517.41,P4
+DGS,Department of General Services,DGS 36 Fleet Automotive Heavy Equipment,M,79430.1174,2567.31,0,19
+ABS,Alcohol Beverage Services,ABS 85 Administrative Services,F,149464.15,0,9021.82,18
+DOT,Department of Transportation,DOT 50 Traffic Engineering and Operations,F,81799.1745,0,0,N17
+FRS,Fire and Rescue Services,FRS 45 Station 20,M,96826,992.45,0,F3
+COR,Correction and Rehabilitation,COR 42 DS MCDC Custody and Security,M,95927,43139.85,1678.82,C5
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,F,72017,24963.91,0,T1
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,F,21862,77.33,0,12
+CUS,Community Use of Public Facilities,CUS 70 Core Services Team,F,79077.9058,57.03,0,18
+POL,Department of Police,POL 47 PSB 5th District Patrol,F,113488,0,12101.05,P5
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,146688.67,0,0,M3
+DOT,Department of Transportation,DOT 50 Traffic Engineering Studies Section,M,67682.5599,0,0,18
+HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,F,84310.555,425.61,0,24
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,72361.0418,8085.91,0,15
+FRS,Fire and Rescue Services,FRS 45 Operations Division,M,189699,0,20279.46,B6
+FRS,Fire and Rescue Services,FRS 45 Station 32,M,106504,1444.07,11385.76,F4
+HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,F,82085.2923,19996.87,0,21
+COR,Correction and Rehabilitation,COR 42 DS MCDC Custody and Security,F,65974,20794.34,0,C4
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,81606,0,0,24
+ABS,Alcohol Beverage Services,ABS 85 Hampden Lane,M,21862,109.14,0,12
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 1 Security,M,54090,12055.22,0,C3
+DPS,Department of Permitting Services,DPS 75 Fire Code Compliance,F,96315.1681,4740.24,0,23
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,52080.82,1791.42,0,15
+POL,Department of Police,POL 47 ISB Criminal Investigations Division 5th District Investigative Section,M,103927,664.77,2846.44,P4
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,F,59517,28579.69,0,T1
+CCL,County Council,CCL 01 Council Members and Staff,F,83511.24,0,0,N18
+ABS,Alcohol Beverage Services,ABS 85 Westwood,M,88161.3,211.09,0,N21
+SHF,Sheriff's Office,SHF 48 Civil Process,M,69567,5575.84,0,G3
+DPS,Department of Permitting Services,DPS 75 Land Development Right-of-Way Plan Review,F,122842,0,0,26
+SHF,Sheriff's Office,SHF 48 Administration,M,76395,3071.11,0,G4
+HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,F,71054.82,0,0,16
+OHR,Office of Human Resources,OHR 33 Records Management Team,F,89140.87,0,0,N25
+FRS,Fire and Rescue Services,FRS 45 Station 17,M,78765,1703.69,0,F3
+REC,Department of Recreation,REC 72 Aquatic Team Management,F,78286.13,0,0,16
+POL,Department of Police,POL 47 FSB Traffic Division Alcohol Initiatives Section,M,108084,21724.52,7550.4,P4
+POL,Department of Police,POL 47 MSB Communications Division,M,67509.2382,33893.75,0,19
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,F,80684,3006.8,0,T1
+REC,Department of Recreation,REC 72 Special Programs,F,87579.7784,0,0,N25
+DPS,Department of Permitting Services,DPS 75 Customer Support,F,76077.7924,10897.59,0,17
+FRS,Fire and Rescue Services,FRS 45 Station 17,M,96826,783.46,10351.18,F3
+COR,Correction and Rehabilitation,COR 42 DS Food Services,F,102682,15718.35,4378.64,N22
+HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,54333,0,0,17
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,83017,35213.78,0,T1
+POL,Department of Police,POL 47 FSB Traffic Division Central Traffic Enforcement,M,108084,2504.54,11524.76,P4
+HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,F,85426,0,0,24
+FRS,Fire and Rescue Services,FRS 45 Station 30,M,81521,11016.4,0,F3
+DGS,Department of General Services,DGS 36 Fleet Management Fleet Services,M,54699.23,1051.6,0,16
+FRS,Fire and Rescue Services,FRS 45 Station 19,M,96826,2288.77,2953.61,F3
+POL,Department of Police,POL 47 PSB 5th District Patrol,M,72967,1052.48,0,P3
+ABS,Alcohol Beverage Services,ABS 85 IT Administration,M,119572,0,0,N26
+FRS,Fire and Rescue Services,FRS 45 Station 15,M,63156,7862.7,0,F2
+FRS,Fire and Rescue Services,FRS 45 Station 6,M,132119,59107.19,4547.09,B2
+HHS,Department of Health and Human Services,HHS 60 Services to End and Prevent Homelessness Division,F,86103,0,4076.04,18
+LIB,Department of Public Libraries,LIB 71 Quince Orchard Library,M,65971.107,0,0,21
+CEC,Community Engagement Cluster,CEC 16 Silver Spring Urban District,M,82436,20681.98,3507.12,N17
+OAS,Office of Animal Services,OAS 38 Animal Services Division,M,82436,23020.78,1339.65,18
+OMB,Office of Management and Budget,OMB 31 Office of Management and Budget,M,60138.0425,0,0,N14
+REC,Department of Recreation,REC 72 Aquatic Team Management,F,71744.7844,0,0,21
+SHF,Sheriff's Office,SHF 48 Administration,M,122092,7226.8,7122.49,D2
+PRO,Office of Procurement,PRO 35 Procurement Services Section,F,69442,0,3276.15,13
+REC,Department of Recreation,REC 72 Countywide Programs,M,92350.9814,214.66,0,21
+ABS,Alcohol Beverage Services,ABS 85 White Oak,M,42494.2127,0,0,12
+ABS,Alcohol Beverage Services,ABS 85 Westwood,F,77645.6571,0,0,N18
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,86764.65,0,0,23
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,63517,8517.77,0,T1
+DGS,Department of General Services,DGS 36 Fleet Management Fleet Services,M,81776.9969,0,0,19
+HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,98228,0,1596.27,N21
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,75017,29941.64,0,T1
+DGS,Department of General Services,DGS 36 Facilities Maintenance,M,86103,1503.74,0,18
+POL,Department of Police,POL 47 PSB 1st District Community Operations,M,124833,44.8,6372.48,A1
+DGS,Department of General Services,DGS 36 Fleet Management Fleet Services,M,48045,0,0,19
+POL,Department of Police,POL 47 MSB Communications Division,F,107367,33056.77,0,N23
+CAT,County Attorney's Office,CAT 30 Government Operations,F,158802,0,6793.7,N32
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,84017,15270.28,0,T1
+POL,Department of Police,POL 47 PSB 3rd District Community Action Team,M,94186,625.94,0,P4
+FRS,Fire and Rescue Services,FRS 45 Station 32,F,99420,16772.65,0,F4
+POL,Department of Police,POL 47 MSB Information Mgmt and Tech Division Records Management Section,F,60894.3133,1735.66,0,16
+SHF,Sheriff's Office,SHF 48 Sheriff Domestic Violence,M,69567,7011.32,0,G3
+DOT,Department of Transportation,DOT 50 Parking Management Parking Operations,F,117424,0,5013.3,N25
+ABS,Alcohol Beverage Services,ABS 85 Kensington,M,23340.6395,58.08,0,12
+DPS,Department of Permitting Services,DPS 75 Land Development Right-of-Way Plan Review,F,122333,0,0,26
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 2 Security,M,54090,33929.4,0,C3
+DGS,Department of General Services,DGS 36 Central Duplicating,M,88326.0455,10606.83,0,N20
+DOT,Department of Transportation,DOT 50 Transit COS Marketing,F,97356.9,0,0,21
+DHS,Office of Emergency Management and Homeland Security,DHS 49 Policy and Planning,M,118509,0,0,26
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,57121.94,0,0,16
+DGS,Department of General Services,DGS 36 Automation,M,115937.5852,0,0,26
+ABS,Alcohol Beverage Services,ABS 85 Wholesale Administration,M,157272.3,0,0,M2
+ABS,Alcohol Beverage Services,ABS 85 Director's Office,M,86103,32.94,6836.38,18
+DOT,Department of Transportation,DOT 50 Commuter Services,F,117424.0017,0,0,N25
+FRS,Fire and Rescue Services,FRS 45 Station 22,M,96826,0,0,F3
+POL,Department of Police,POL 47 PSB 1st District Patrol,M,94186,698.98,0,P4
+HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,78575.85,0,0,23
+FIN,Department of Finance,FIN 32 Grants Accounting,F,98228,0,0,21
+ABS,Alcohol Beverage Services,ABS 85 Stock Liquor and Wine Warehouse Operations,M,57221.2677,2271.67,0,13
+POL,Department of Police,POL 47 MSB Information Management and Technology Division Data Systems Section,M,56579.7081,0,0,14
+FRS,Fire and Rescue Services,FRS 45 Station 15,M,78765,52185.46,0,F3
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,65434.165,2033.02,0,15
+FRS,Fire and Rescue Services,FRS 45 Station 40,M,132119,32512.49,0,B2
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,63517,4855.02,0,T1
+POL,Department of Police,POL 47 PSB 4th District Special Assignment Team,M,94186,15346.74,0,P4
+FRS,Fire and Rescue Services,FRS 45 Station 8,M,106504,64092.17,0,F4
+COR,Correction and Rehabilitation,COR 42 DS MCCF Case Managers Unit 3,F,71836.8,906.64,0,22
+FRS,Fire and Rescue Services,FRS 45 Station 2,M,92213,4859.61,0,F2
+FRS,Fire and Rescue Services,FRS 45 Recruit Training,M,52566,0,0,F3
+HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,69442,0,5490.05,13
+REC,Department of Recreation,REC 72 Facilities Division,M,72887.804,0,0,21
+DPS,Department of Permitting Services,DPS 75 Commercial Structural and Complex Structures,M,138806.34,0,0,M3
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,68017,15084.47,0,T1
+DGS,Department of General Services,DGS 36 Facilities Major Programs,M,107367,54754.88,4580.14,N23
+BOE,Board of Elections,BOE 24 Registration Services,F,73697.953,0,0,16
+POL,Department of Police,POL 47 ISB Criminal Investigations Division 3rd District Investigative Section,M,104428,4506,0,P4
+HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,M,103945.8764,3170.2,0,24
+COR,Correction and Rehabilitation,COR 42 PRRS Facility and Security,M,69737.3832,19341.86,0,20
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,51547.6404,9244.92,0,15
+FRS,Fire and Rescue Services,FRS 45 Station 32,M,87328,49756.39,0,F3
+REC,Department of Recreation,REC 72 Facilities Division,F,105376.9104,0,0,N23
+FRS,Fire and Rescue Services,FRS 45 Station 1,M,73525,42690.36,0,F3
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,78017,6794.99,0,T1
+DGS,Department of General Services,DGS 36 Fleet Management Fleet Services,M,54699.2325,1385.96,0,16
+POL,Department of Police,POL 47 PSB 4th District Patrol,F,82078,8061.03,0,P4
+REC,Department of Recreation,REC 72 Special Programs,F,76000,0,0,21
+LIB,Department of Public Libraries,LIB 71 Human Resources and Staff Development,M,113522.1016,0,577.92,N25
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,81017,21591.01,0,T1
+POL,Department of Police,POL 47 FSB Special Operations Division Canine Section,M,108084,16262.25,11524.76,P4
+HHS,Department of Health and Human Services,HHS 60 Children Youth and Family Services Division,F,113159.655,0,0,N25
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,77730.45,0,3444.63,16
+POL,Department of Police,POL 47 ISB Forensics Sciences and Evidence Management Division Crime Scene Section,F,64514.655,6049.29,0,20
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,82017,7387.36,0,T1
+LIB,Department of Public Libraries,LIB 71 Quince Orchard Library,F,95854.04,0,0,24
+OHR,Office of Human Resources,OHR 33 Recruitment and Selection Division,F,117424,0,0,N25
+DOT,Department of Transportation,DOT 50 Transit Silver Spring Ride On,M,84017,9772.26,0,T1
+DPS,Department of Permitting Services,DPS 75 Customer Support,M,78740.5151,56.79,0,17
+DPS,Department of Permitting Services,DPS 75 Well and Septic Review and Inspections,F,112267,1726.2,5332.31,24
+POL,Department of Police,POL 47 MSB Training and Education Division,M,108084,4853.7,11524.76,P4
+POL,Department of Police,POL 47 ISB Forensics Sciences and Evidence Management Division Crime Scene Section,F,77208.2473,304.68,0,21
+DGS,Department of General Services,DGS 36 Facilities Maintenance,M,56443,19.95,0,8
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,52377.6689,1949.38,0,10
+POL,Department of Police,POL 47 FSB Traffic Division Automated Traffic Enforcement Section,M,64480.14,0,0,15
+HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,61337.205,176.94,0,20
+ABS,Alcohol Beverage Services,ABS 85 Cabin John,M,72463,137.53,3420.64,14
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,46091.84,0,0,16
+TBS,Department of Technology and Enterprise Business Solutions,TBS 34 ODT Payroll/Comp/BI,F,144376.5134,0,0,N30
+FRS,Fire and Rescue Services,FRS 45 Station 32,M,63156,4964.05,0,F2
+HRC,Office of Human Rights,HRC 46 Director's Office,M,78947,4326.04,0,N16
+DOT,Department of Transportation,DOT 50 Transportation Construction Section,M,107367,1456.02,5097.58,23
+DEP,Department of Environmental Protection,DEP 80 Building and Transportation Programs,F,103203.4608,0,0,25
+DGS,Department of General Services,DGS 36 Building Design and Construction,M,107367,0,2106.57,23
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,72017,24659.67,0,T1
+DPS,Department of Permitting Services,DPS 75 Customer Support,M,75560.2924,2761.07,0,17
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,84462.21,0,0,24
+POL,Department of Police,POL 47 MSB Communications Division,M,73953.2315,11857.47,0,19
+HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,F,69442,0,0,13
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,100986.4567,0,0,24
+FRS,Fire and Rescue Services,FRS 45 Station 12,M,132119,42091.32,9253.14,B2
+POL,Department of Police,POL 47 FSB Traffic Division School Safety Section,M,28570.0967,41.21,0,10
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,78017,36669.4,0,T1
+DOT,Department of Transportation,DOT 50 Transit Fare Media,F,79218.7,0,0,18
+HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,86103,4528.32,4034.84,18
+HHS,Department of Health and Human Services,HHS 60 Behavioral Health and Crisis Services Division,F,99935.2948,0,0,24
+HHS,Department of Health and Human Services,HHS 60 Office of Community Affairs Division,F,107367,0,3546.14,N23
+ABS,Alcohol Beverage Services,ABS 85 Clarksburg Village,M,48538.622,1145.52,0,12
+FRS,Fire and Rescue Services,FRS 45 Station 40,M,90386,27177.26,0,F3
+FRS,Fire and Rescue Services,FRS 45 Station 25,M,63156,3481.48,0,F2
+POL,Department of Police,POL 47 PSB 3rd District Community Operations,M,108084,16644.16,11524.76,P4
+POL,Department of Police,POL 47 PSB 3rd District Patrol,F,91002,15923,0,P4
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,98233.63,0,0,24
+DOT,Department of Transportation,DOT 50 Transit Nicholson Ride On,M,81017,10079.84,0,T1
+DGS,Department of General Services,DGS 36 Central Duplicating,M,60413.44,0,0,11
+FRS,Fire and Rescue Services,FRS 45 Station 28,M,96826,31481.28,0,F3
+HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,82217.0259,0,0,23
+HHS,Department of Health and Human Services,HHS 60 Public Health Services Division,F,130750.72,0,0,M3
+FRS,Fire and Rescue Services,FRS 45 Station 23,M,90386,0,0,F3
+DOT,Department of Transportation,DOT 50 Transit Management Services,F,90000,0,0,N23
+POL,Department of Police,POL 47 PSB 5th District Patrol,F,47093,3329.3,0,P4P
+FRS,Fire and Rescue Services,FRS 45 Station 35,M,96826,25754.25,2543.04,F3
+LIB,Department of Public Libraries,LIB 71 Damascus Library,F,22324.86,0,0,8
+DEP,Department of Environmental Protection,DEP 80 Resource Conversion,F,69442,16721.83,0,13
+DOT,Department of Transportation,DOT 50 Transit Gaithersburg Ride On,M,82017,21001.72,0,T1
+DPS,Department of Permitting Services,DPS 75 Land Development Right-of-Way Plan Review,M,122842,0,1996.28,26
+ABS,Alcohol Beverage Services,ABS 85 Beer Delivery Operations,M,68944.3944,4539.49,0,15
+COR,Correction and Rehabilitation,COR 42 DS MCCF Unit 1 Security,F,76668,47316.28,0,C5
+POL,Department of Police,POL 47 MSB Communications Division,M,122842,0,9640.04,26
+POL,Department of Police,POL 47 MSB Communications Division,M,107271.137,9161.8,0,N23
+HHS,Department of Health and Human Services,HHS 60 School Health Services,F,48976.88,0,0,16
+FRS,Fire and Rescue Services,FRS 45 Station 18,M,96826,1297.57,10351.18,F3
+FRS,Fire and Rescue Services,FRS 45 Training,M,117165,39987.08,12525.38,B1
+HHS,Department of Health and Human Services,HHS 60 Office of Eligibility and Support Services,F,89322.4701,4051.95,0,20
+POL,Department of Police,POL 47 PSB 6th District Patrol,F,94186,6267.76,0,P4
+OAG,Office of Agriculture,OAG 78 Soil Conservation,M,152237.01,0,0,M3
+LIB,Department of Public Libraries,LIB 71 Little Falls Library,F,49114,0,3908.07,21
+REC,Department of Recreation,REC 72 Countywide Programs,M,98228,0,4658.57,21
+POL,Department of Police,POL 47 PSB 1st District Patrol,M,108084,5322.38,11524.76,P4
+POL,Department of Police,POL 47 FSB Traffic Division Central Traffic Enforcement,M,108084,6119.22,11524.76,P4
+FRS,Fire and Rescue Services,FRS 45 Station 25,M,63156,1441.96,0,F2
+ABS,Alcohol Beverage Services,ABS 85 Hampden Lane,M,21862,5.68,0,12
+DOT,Department of Transportation,DOT 50 Highway Services,M,78947,9195.4,6232.08,16
+POL,Department of Police,POL 47 FSB Traffic Division School Safety Section,F,23022.5745,0,0,10
+FRS,Fire and Rescue Services,FRS 45 Station 21,M,78765,12345.45,0,F3
+FRS,Fire and Rescue Services,FRS 45 Station 24,M,117165,7406.54,8205.92,B1
+HHS,Department of Health and Human Services,HHS 60 Child Welfare Services,F,119730.26,0,0,M3
